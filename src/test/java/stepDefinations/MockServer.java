@@ -124,5 +124,4 @@ public class MockServer {
                         .withHeader("Content-Type", "application/json")
                         .withStatus(404)));
     }
-
 }
