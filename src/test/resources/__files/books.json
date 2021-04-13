@@ -1,0 +1,13 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "SRE 101",
+      "author": "John Smith"
+    }
+  ],
+  "status": {
+    "Code": 200,
+    "Message": ""
+  }
+}
