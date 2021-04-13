@@ -1,0 +1,6 @@
+{
+  "status": {
+    "code": 400,
+    "Message": "Another book with similar title and author already exists."
+  }
+}

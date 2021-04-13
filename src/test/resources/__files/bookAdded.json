@@ -1,0 +1,9 @@
+{
+  "id": "{{randomValue length=1 type='NUMERIC'}}",
+  "title": "{{jsonPath request.body '$.title'}}",
+  "author": "{{jsonPath request.body '$.author'}}",
+  "status": {
+    "Code": 201,
+    "Message": "Success"
+  }
+}
